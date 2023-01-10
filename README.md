@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaekJinJang&show_icons=true&theme=tokyonight)
 ![](https://raw.githubusercontent.com/KimMinchan95/github-stats-transparent/output/generated/languages.svg)
 
->🛠 Teck Stack 🛠
+## 🛠 Teck Stack 🛠
 --
 
 **Strong**
@@ -31,9 +31,8 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 
 
-<h3 align="center"> 🎳 About Me 🎳 </h3>
-<p align="center">
-  <a href="https://velog.io/@taek_jini"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kyu0918"/></a></p>
+## 🎳 About Me 🎳
+  <a href="https://velog.io/@taek_jini"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kyu0918"/></a>
 
 <!--
 **TaekJinJang/TaekJinJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
