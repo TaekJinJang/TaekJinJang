@@ -4,6 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaekJinJang&count_bg=%235F81F9&title_bg=%234678FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaekJinJang&show_icons=true&theme=tokyonight)
+![](https://raw.githubusercontent.com/KimMinchan95/github-stats-transparent/output/generated/languages.svg)
 
 >🛠 Teck Stack 🛠
 --
