@@ -1,4 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=230&section=header&text=JangTaekJin&fontAlign=75&fontAlignY=40&desc=FrontEnd&descAlign=93&descAlignY=55&animation=twinkling)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!👋;Welcome+To+My+Github&height=45&size=32&color=BLUE)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaekJinJang&count_bg=%235F81F9&title_bg=%234678FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
 
 <!--
 **TaekJinJang/TaekJinJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
