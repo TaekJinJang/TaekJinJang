@@ -19,7 +19,7 @@
 
 
 <h1>🎳 About Me 🎳</h1>
-  <a href="https://velog.io/@taek_jini"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kyu0918"/></a> <a href="https://steep-cereal-358.notion.site/4f449ec53c7944f9a0d49a7e366e875d?v=01eecb9fde4348ebb1c234a2f81912ed"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+  <a href="https://velog.io/@taek_jini"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@kyu0918"/></a>
   </div>
 
 <!--
